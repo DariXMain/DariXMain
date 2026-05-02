@@ -1,72 +1,72 @@
 <div align="center">
 
-# 🚀 آرین علینژاد | Ariyan Alinejad
+# 🚀 Ariyan Alinejad
 
-### <code>توسعه‌دهنده فول استک | علاقه‌مند به امنیت سایبری</code>
+### <code>Full-Stack Developer | Cybersecurity Enthusiast</code>
 
 </div>
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=دنبال‌کننده&color=0d1117)](https://github.com/DariXMain)
-[![GitHub stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=ستاره‌ها&color=ffd700)](https://github.com/DariXMain)
+[![GitHub followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=Followers&color=0d1117)](https://github.com/DariXMain)
+[![GitHub stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=Stars&color=ffd700)](https://github.com/DariXMain)
 
 </div>
 
 ---
 
-### 🧑‍💻 درباره من
+### 🧑‍💻 About Me
 
-سلام! من **آرین** هستم.
+Hi! I'm **Ariyan**.
 
-برنامه‌نویسی رو از **۱۲ سالگی** شروع کردم و الان **۱۶ سالمه**.  
-یعنی **۴ سال** هست که دارم کد میزنم و هر روز دارم بیشتر یاد میگیرم.
+I started coding when I was **12 years old**, and now I'm **16**.  
+That means **4 years** of coding experience, and I'm still learning every day.
 
-الان تو **پایه دهم هنرستان** درس میخونم و کنارش توی دنیای برنامه‌نویسی غرق میشم.
+I'm currently studying in **10th grade** at a technical high school.
 
 ---
 
-### 🔥 چه کارایی بلدم؟
+### 🔥 What I Do
 
-#### 🌐 توسعه وب (فول استک – سطح میانی)
+#### 🌐 Web Development (Full-Stack – Mid Level)
 
-**فرانت‌اند:**
+**Frontend:**
 - React
 - Next.js
 - Vanilla JavaScript
 - HTML & CSS
 
-**بک‌اند:**
+**Backend:**
 - FastAPI
 - Flask
-- طراحی REST API
+- REST API Design
 - WebSocket
 
-#### 🗄️ پایگاه داده
+#### 🗄️ Databases
 
 - PostgreSQL
 - MySQL
 - MongoDB
 
-#### 🧠 زبان‌های برنامه‌نویسی
+#### 🧠 Programming Languages
 
 Python | JavaScript | C++ | C# | Lua | HTML | CSS
 
-#### 🛡️ امنیت سایبری
+#### 🛡️ Cybersecurity
 
-علاقه شدید به امنیت وب و نرم‌افزار
+Strong interest in web and software security
 
-#### 📱 توسعه نرم‌افزار
+#### 📱 Software Development
 
-برنامه‌های کامپیوتری و موبایل
+Desktop & Mobile applications
 
-#### 🔌 سخت‌افزار و شبکه
+#### 🔌 Hardware & Networking
 
-مهندسی سخت‌افزار و آشنایی با مفاهیم شبکه
+Hardware engineering and networking concepts
 
 ---
 
-### 🛠️ ابزارهایی که کار میکنم
+### 🛠️ Tools I Use
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -74,7 +74,7 @@ Python | JavaScript | C++ | C# | Lua | HTML | CSS
 
 ---
 
-### 📊 آمار گیت‌هاب
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -86,22 +86,22 @@ Python | JavaScript | C++ | C# | Lua | HTML | CSS
 
 ---
 
-### 💬 یک حرف از خودم
+### 💬 A Quote From Me
 
-> **"هر روز یک خط کد جدید، هر روز یک چالش جدید."**
+> **"One line of code a day, one new challenge every day."**
 
 ---
 
-### 📫 ارتباط با من
+### 📫 Contact
 
-فعلاً تمرکزم روی کد زدن و یادگیریه.  
-میتونی از طریق Issue یا Discussion توی ریپازیتوری‌هام باهات در ارتباط باشم.
+I'm focused on coding and learning right now.  
+You can reach me via **Issues** or **Discussions** on my repositories.
 
 ---
 
 <div align="center">
 
-**❤️ از اینکه به پروفایلم سر زدی خوشحالم ❤️**
+**❤️ Thanks for visiting my profile ❤️**
 
 ⭐ [github.com/DariXMain](https://github.com/DariXMain) ⭐
 

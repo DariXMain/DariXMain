@@ -48,29 +48,12 @@ I enjoy working on personal and commercial projects, and I actively contribute t
 
 ---
 
-## 📂 Projects
-
-*(You can add your key projects here with links and brief descriptions.)*
-
-- **[Project Name 1](link-to-github or demo)** - A brief description about project 1 and technologies used.
-- **[Project Name 2](link-to-github or demo)** - A brief description about project 2 and technologies used.
-
----
-
 ## 💡 Interests
 
 - Cybersecurity (Offense & Defense)
 - Hardware & Networking
 - Learning New Technologies
 - Contributing to Open Source Projects
-
----
-
-## ✍️ Blog
-
-*(Link to your personal blog or website.)*
-
-- [My Blog](your-blog-link)
 
 ---
 

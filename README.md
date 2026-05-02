@@ -1,33 +1,158 @@
+# DariXMain (Ariyan Alinejad)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Python%20%7C%20JavaScript-blue?style=for-the-badge&logo=python&logoColor=white" alt="Full Stack Developer Badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking%20%7C%20Defense-red?style=for-the-badge" alt="Cybersecurity Badge"/>
+  <img src="https://img.shields.io/badge/Student-High%20School-orange?style=for-the-badge" alt="Student Badge"/>
+</div>
+
+---
+
+## 🌟 About Me
+
+Hi! I'm **Ariyan Alinejad**, known as **DariXMain**. I am a **Full-Stack Web Developer** at an intermediate level, passionate about coding from a young age. I started programming at around 12, and I am currently studying in the tenth grade at high school. 
+
+Besides web development, I also have experience creating mobile apps (APK) and desktop applications (EXE). I have a strong interest in **Cybersecurity**, especially in ethical hacking, attack, and defense strategies. I am also engaged in **hardware and networking**.
+
+I enjoy working on personal and commercial projects, and I actively contribute to **Open Source** initiatives.
+
+---
+
 ## 🚀 Skills
 
-### 💻 Web / Programming
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+
+  <!-- Web/Programming -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+
+  <br/>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+
+  <br/>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
+   <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio%20code&logoColor=white" alt="VS Code"/>
+  </a>
+
+  <br/>
+
+  <!-- Other Languages/Platforms -->
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Lua-0000FF?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  </a>
+   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </a>
+   <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  </a>
+   <a href="https://www.csharp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-23912B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  </a>
+
 </div>
 
-### 🗄️ Databases
+---
+
+## 🛡️ Cybersecurity & Networking
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-Attack%20&%20Defense-red?style=flat-square&logo=hackthebox" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Hardware-Configuration-blue?style=flat-square&logo=arduino" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Networking-Setup%20&%20Management-green?style=flat-square&logo=cisco" alt="Networking"/>
 </div>
 
-### 🛠️ Tools
+
+---
+
+## 💡 Interests
+
+- Cybersecurity (Offense & Defense)
+- Hardware & Networking
+- Learning New Technologies
+- Contributing to Open Source Projects
+
+---
+
+## ✍️ Blog
+
+*(Link to your personal blog or website.)*
+
+- [My Blog](your-blog-link)
+
+---
+
+## 📞 Contact Me
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-personal-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/DariXMain" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
-### 🛡️ Cybersecurity
-<div align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-attack%20%26%20defense-red?style=for-the-badge" />
-</div>
+<!--
+**Notes:**
+- Replace placeholders like YOUR_EMAIL@example.com, YOUR_LINKEDIN_PROFILE, your-personal-website.com, YOUR_TELEGRAM_USERNAME with your actual links.
+- Replace the placeholder links in the "Skills" section (e.g., https://www.python.org/) with the actual URLs you want to link to.
+- Fill in the Projects section with your projects and links.
+- You can add more contact options or icons as needed.
+- Use Markdown preview on GitHub to see how it looks.
+-->

@@ -38,6 +38,12 @@ I enjoy working on personal and commercial projects, and I actively contribute t
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  </a>
+  <a href="https://nextjs.org/docs/app/building-your-application/compiling#turbopack" target="_blank">
+    <img src="https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Turbopack"/>
+  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
   </a>
@@ -76,8 +82,14 @@ I enjoy working on personal and commercial projects, and I actively contribute t
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   </a>
-   <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio%20code&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
+  <a href="https://insomnia.rest/" target="_blank">
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
   </a>
 
   <br/>
@@ -86,13 +98,16 @@ I enjoy working on personal and commercial projects, and I actively contribute t
   <a href="https://www.lua.org/" target="_blank">
     <img src="https://img.shields.io/badge/Lua-0000FF?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
   </a>
-   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   </a>
-   <a href="https://developer.android.com/" target="_blank">
+  <a href="https://developer.android.com/" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   </a>
-   <a href="https://www.csharp.com/" target="_blank">
+  <a href="https://www.csharp.com/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-23912B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   </a>
 

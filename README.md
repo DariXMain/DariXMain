@@ -9,9 +9,9 @@
 <div align="center">
 
     [![GitHub
-    followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=Flowers&color=0d1117)](https://github.com/DariXMain)
+    followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=دنبال‌کننده&color=0d1117)](https://github.com/DariXMain)
     [![GitHub
-    stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=Stars&color=ffd700)](https://github.com/DariXMain)
+    stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=ستاره‌ها&color=ffd700)](https://github.com/DariXMain)
 
 </div>
 

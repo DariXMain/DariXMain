@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Hi! I'm **Ariyan Alinejad**, known as **DariXMain**. I am a **Full-Stack Web Developer** at an intermediate level, passionate about coding from a young age. I started programming at around 16, and I am currently studying in the tenth grade at high school. 
+Hi! I'm **Ariyan Alinejad**, known as **DariXMain**. I am a **Full-Stack Web Developer** at an intermediate level, passionate about coding from a young age. I started programming at around 12, and I am currently studying in the tenth grade at high school. 
 
 Besides web development, I also have experience creating mobile apps (APK) and desktop applications (EXE). I have a strong interest in **Cybersecurity**, especially in ethical hacking, attack, and defense strategies. I am also engaged in **hardware and networking**.
 

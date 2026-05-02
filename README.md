@@ -1,29 +1,32 @@
 <div dir="rtl" align="center">
 
-# 🚀 Ariyan Alinejad
+    # 🚀 آرین علینژاد | Ariyan Alinejad
 
-### <code>Full-Stack Developer | Cybersecurity Enthusiast</code>
+    ### <code>Full-Stack Developer | Cybersecurity Enthusiast</code>
 
 </div>
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=دنبال‌کننده&color=0d1117)](https://github.com/DariXMain)
-[![GitHub stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=ستاره‌ها&color=ffd700)](https://github.com/DariXMain)
+
+    [![GitHub
+    followers](https://img.shields.io/github/followers/DariXMain?style=for-the-badge&logo=github&label=Flowers&color=0d1117)](https://github.com/DariXMain)
+    [![GitHub
+    stars](https://img.shields.io/github/stars/DariXMain?style=for-the-badge&logo=github&label=Stars&color=ffd700)](https://github.com/DariXMain)
 
 </div>
 
 ---
 
-### 🧑‍💻 کدوم آریان؟ / Who am I?
+### 🧑‍💻 کدوم آرین؟ / Who am I?
 
 <div dir="rtl">
 
-سلام! من **آریان** هستم، برنامه‌نویسی رو از **۱۲ سالگی** شروع کردم و الان ۱۶ سالمه.  
-**۴ سال تجربه عملی** پشت سرم دارم و عاشق چالش‌های جدیدم.
+    سلام! من **آرین** هستم، برنامه‌نویسی رو از **۱۲ سالگی** شروع کردم و الان ۱۶ سالمه.
+    **۴ سال تجربه عملی** پشت سرم دارم و عاشق چالش‌های جدیدم.
 
-الان تو **پایه دهم هنرستان** درس میخونم و همزمان توی دنیای کد زدن غرق میشم.  
-توی **وب (فول استک سطح میانی)**، **امنیت سایبری**، **توسعه نرم‌افزار**، **دیتابیس** و حتی یه کم **سخت‌افزار و شبکه** دستی دارم.
+    الان تو **پایه دهم هنرستان** درس میخونم و همزمان توی دنیای کد زدن غرق میشم.
+    توی **وب (فول استک سطح میانی)**، **امنیت سایبری**، **توسعه نرم‌افزار**، **دیتابیس** و حتی یه کم **سخت‌افزار و شبکه**
+    دستی دارم.
 
 </div>
 
@@ -82,9 +85,11 @@
 
 <div align="center">
 
-![Ariyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DariXMain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7e5e&icon_color=ffb347&text_color=f0f0f0)
+    ![Ariyan's GitHub
+    Stats](https://github-readme-stats.vercel.app/api?username=DariXMain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7e5e&icon_color=ffb347&text_color=f0f0f0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DariXMain&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7e5e&text_color=f0f0f0)
+    ![Top
+    Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DariXMain&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7e5e&text_color=f0f0f0)
 
 </div>
 
@@ -98,15 +103,15 @@
 
 ### 📫 چطور بهم برسی؟
 
-فعلاً تمرکز من روی گیت‌هاب و رشد مهارت‌هامه.  
+فعلاً تمرکز من روی گیت‌هاب و رشد مهارت‌هامه.
 می‌تونی از طریق **Issue** یا **Discussion** توی ریپازیتوری‌هام با من در ارتباط باشی.
 
 ---
 
 <div align="center">
 
-**⭐ از اینکه پروفایلم رو دیدی ممنونم ⭐**
+    **⭐ از اینکه پروفایلم رو دیدی ممنونم ⭐**
 
-[![GitHub](https://img.shields.io/badge/GitHub-DariXMain-181717?style=social&logo=github)](https://github.com/DariXMain)
+    [![GitHub](https://img.shields.io/badge/GitHub-DariXMain-181717?style=social&logo=github)](https://github.com/DariXMain)
 
 </div>

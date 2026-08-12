@@ -110,7 +110,15 @@ I enjoy working on personal and commercial projects, and I actively contribute t
   <a href="https://www.csharp.com/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-23912B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   </a>
-
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank">
+    <img src="https://img.shields.io/badge/IoT-0078D7?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
 </div>
 
 ---
@@ -135,28 +143,11 @@ I enjoy working on personal and commercial projects, and I actively contribute t
 
 ---
 
-## ✍️ Blog
-
-*(Link to your personal blog or website.)*
-
-- [My Blog](your-blog-link)
-
----
-
 ## 📞 Contact Me
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:darixmain9@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://your-personal-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://github.com/DariXMain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

@@ -76,7 +76,7 @@ I enjoy experimenting with new technologies, developing personal and commercial 
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,postman&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,postman&theme=dark" alt="Developer Tools"/>
 
 <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
 
@@ -86,7 +86,7 @@ I enjoy experimenting with new technologies, developing personal and commercial 
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+<img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma and Photoshop"/>
 
 </div>
 
@@ -103,6 +103,7 @@ I enjoy experimenting with new technologies, developing personal and commercial 
 <div align="left">
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 
 </div>
 

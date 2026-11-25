@@ -119,6 +119,17 @@ I enjoy working on personal and commercial projects, and I actively contribute t
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   </a>
+
+  <br/>
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fastapi"/>
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-WebSocket-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fastapi WebSocket"/>
+  </a>
+  
 </div>
 
 ---

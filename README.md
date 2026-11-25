@@ -2,11 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:4158D0,50:C850C0,100:FFCC70&text=DariXMain&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="DariXMain Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:4158D0,50:C850C0,100:FFCC70&text=DariXMain&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=70&descSize=15&animation=fadeIn" width="100%" alt="DariXMain Banner"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Full--Stack%20Developer-Python%20%7C%20JavaScript-6366f1?style=for-the-badge&logo=code&logoColor=white" alt="Developer"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-C850C0?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-ec4899?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
 
@@ -23,15 +24,17 @@
 
 Hi! I'm **Ariyan Alinejad**, also known as **DariXMain**.
 
-I'm an intermediate-level **Full-Stack Developer** passionate about software development, cybersecurity, and technology.
+I'm an intermediate-level **Full-Stack Developer** and **UI/UX Designer**, passionate about software development, interface design, cybersecurity, and technology.
 
 I started programming at around the age of 12 and I'm currently a high school student.
 
-My main focus is building web applications, backend systems, APIs, and exploring modern development technologies.
+My main focus is building web applications, backend systems, APIs, and designing modern, user-friendly interfaces.
 
-Beyond software development, I'm interested in cybersecurity, ethical hacking, networking, hardware, and IoT.
+Beyond software development and design, I'm interested in cybersecurity, ethical hacking, networking, hardware, and IoT.
 
-I also enjoy experimenting with new technologies, developing personal and commercial projects, and contributing to open-source software.
+I'm also exploring Artificial Intelligence and Neural Networks, aiming to integrate AI models into my projects and build smarter applications.
+
+I enjoy experimenting with new technologies, developing personal and commercial projects, and contributing to open-source software.
 
 ---
 
@@ -75,13 +78,23 @@ I also enjoy experimenting with new technologies, developing personal and commer
 
 <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,postman&theme=dark" alt="Developer Tools"/>
 
+<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+
+</div>
+
+### 🎨 UI/UX Design
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"/>
+
 </div>
 
 ### 🖥️ Operating Systems & Platforms
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=debian,windows&theme=dark" alt="Operating Systems"/>
+<img src="https://skillicons.dev/icons?i=debian,arch,windows&theme=dark" alt="Operating Systems"/>
 
 </div>
 
@@ -89,7 +102,7 @@ I also enjoy experimenting with new technologies, developing personal and commer
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" alt="Hardware and IoT"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 
 </div>
 
@@ -98,6 +111,7 @@ I also enjoy experimenting with new technologies, developing personal and commer
 ## 🧠 Technical Skills
 
 ### Backend Development
+
 - RESTful API Development
 - API Design & Integration
 - WebSocket Communication
@@ -106,18 +120,29 @@ I also enjoy experimenting with new technologies, developing personal and commer
 - Backend Application Architecture
 
 ### Frontend Development
+
 - Responsive Web Development
 - Component-Based Architecture
 - Modern UI Development
 - Frontend-Backend Integration
 
+### UI/UX Design
+
+- User Interface (UI) Design
+- User Experience (UX) Design
+- Interface Prototyping
+- User-Centered Design
+- Figma & Design Tools
+
 ### Database Management
+
 - Relational Database Design
 - SQL Database Management
 - NoSQL Database Management
 - Database Integration
 
 ### Software Development
+
 - Desktop Application Development
 - Mobile Application Development
 - Application Packaging
@@ -154,8 +179,13 @@ I'm continuously improving my skills and exploring new technologies.
 - Advanced Python Development
 - Backend Architecture
 - Cybersecurity & Network Security
+- Artificial Intelligence & Machine Learning
+- Neural Networks & Deep Learning
+- Working with AI Models and Integrating Them into Projects
 - Modern Web Technologies
 - Software Engineering Practices
+
+My goal is to combine software development and artificial intelligence to create smarter, more capable applications.
 
 ---
 
@@ -171,6 +201,8 @@ I believe open-source software is one of the best ways to share knowledge and im
 
 - Full-Stack Development
 - Backend Engineering
+- UI/UX Design
+- Artificial Intelligence & Neural Networks
 - Cybersecurity & Ethical Hacking
 - Networking & Infrastructure
 - Hardware & IoT
